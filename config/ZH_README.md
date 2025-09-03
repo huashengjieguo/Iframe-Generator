@@ -5,6 +5,8 @@
 # Iframe Generator介绍
 [Iframe Generator](https://iframe-generator.net/)是一款免费在线工具，专为网页开发者和内容创作者设计，旨在简化iframe代码的创建流程，无需记忆复杂的iframe属性，即可快速生成完整、可用的HTML代码，同时支持配置保存与复用，满足各类内容嵌入需求。
 
+## 预览
+![Iframe Generator](/website.png)
 
 ## 核心功能亮点
 1. **全属性覆盖，满足多样需求**  
@@ -20,11 +22,6 @@
 4. **代码即拿即用，适配生产环境**  
 生成的代码清洁、优化，无需额外修改即可直接用于生产环境，且兼容所有现代浏览器，确保嵌入内容在不同设备上表现一致。
 
-## 预览
-## Preview
-<div align="center">
-  [![Iframe Generator](/website.png)
-</div>
 
 ## 操作流程（3步完成，支持保存复用）
 1. **配置iframe参数**  
