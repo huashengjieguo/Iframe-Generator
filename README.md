@@ -22,7 +22,7 @@ The generated code is clean and optimized, requiring no additional modifications
 
 ## Preview
 <div align="center">
-![Iframe Generator](/website.png)
+  [![Iframe Generator](/website.png)
 </div>
 
 ## Operation Process (3 Steps, Supporting Saving and Reuse)

@@ -21,8 +21,9 @@
 生成的代码清洁、优化，无需额外修改即可直接用于生产环境，且兼容所有现代浏览器，确保嵌入内容在不同设备上表现一致。
 
 ## 预览
+## Preview
 <div align="center">
-![Iframe Generator](/website.png)
+  [![Iframe Generator](/website.png)
 </div>
 
 ## 操作流程（3步完成，支持保存复用）
