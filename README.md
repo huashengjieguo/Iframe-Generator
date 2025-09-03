@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="README.md">English</a> | <a href="config/ZH_README.md">中文</a>
+  <a href="/README.md">English</a> | <a href="config/ZH_README.md">中文</a>
 </div>
 
 # Introduction to Iframe Generator
@@ -22,7 +22,7 @@ The generated code is clean and optimized, requiring no additional modifications
 
 ## Preview
 <div align="center">
-[![Iframe Generator](/website.png)
+![Iframe Generator](/website.png)
 </div>
 
 ## Operation Process (3 Steps, Supporting Saving and Reuse)
